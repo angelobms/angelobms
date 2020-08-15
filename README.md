@@ -10,3 +10,7 @@
 - 👯 I’m looking to collaborate on open souce projects 
 - 🤔 I’m looking for help with Java and Web Stacks projects
 - ⚡️ Ability to adapt quickly to new industries, new cultures and new technologies. 
+
+## 📫 Social Media
+
+ - Linkedin: https://www.linkedin.com/in/angelobms/
