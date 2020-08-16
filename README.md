@@ -1,4 +1,4 @@
-### Hello! I am a brazilian 🇧🇷️ passionate about technology.
+### Hello! I am a Brazilian 🇧🇷️ passionate about technology.
 
 - 🔭 More than 15 years of experience in IT industry with strong background in different areas of software development (10+ years) in public and private sector business;
 - 👷️ I’m currently working on Capgemini
