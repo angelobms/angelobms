@@ -14,3 +14,10 @@
 ## 📫 Social Media
 
  - Linkedin: https://www.linkedin.com/in/angelobms/
+ 
+ <table>
+  <tr>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=angelobms&count_private=true&show_icons=true" /></td>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelobms&layout=compact" /></td>
+  </tr>
+</table>
