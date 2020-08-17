@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with Java and Web Stacks projects
 - ⚡️ Ability to adapt quickly to new industries, new cultures and new technologies. 
 
-## 📫 Social Media
+## 📫 Professional Social Medias
 
  - Linkedin: https://www.linkedin.com/in/angelobms/
  
