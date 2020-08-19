@@ -16,16 +16,15 @@
 ## 📫 Professional Social Medias
 
  - Linkedin: https://www.linkedin.com/in/angelobms/ 
- 
- 
- <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/HTML-111%20commits-orange.svg" alt=""></a> 
- <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/CSS-87%20commits-orange.svg" alt=""></a> 
- <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/TypeScript-26%20commits-orange.svg" alt=""></a> 
- <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/Java-92%20commits-orange.svg" alt=""></a> 
- <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/JavaScript-133%20commits-orange.svg" alt=""></a> 
- <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/Python-10%20commits-orange.svg" alt=""></a> 
 
 ##
+
+<a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/HTML-111%20commits-orange.svg" alt=""></a> 
+<a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/CSS-87%20commits-orange.svg" alt=""></a> 
+<a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/TypeScript-26%20commits-orange.svg" alt=""></a> 
+<a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/Java-92%20commits-orange.svg" alt=""></a> 
+<a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/JavaScript-133%20commits-orange.svg" alt=""></a> 
+<a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/Python-10%20commits-orange.svg" alt=""></a> 
  
- <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=angelobms&count_private=true&show_icons=true" />
- <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelobms&layout=compact" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=angelobms&count_private=true&show_icons=true" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelobms&layout=compact" />
