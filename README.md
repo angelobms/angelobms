@@ -19,8 +19,12 @@
 
 ##
  
- <a href="https://sourcerer.io/angelobms"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="16px" alt="Sourcerer"></a>
- <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/Java-92%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/HTML-111%20commits-orange.svg" alt=""></a> 
+ <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/CSS-87%20commits-orange.svg" alt=""></a> 
+ <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/TypeScript-26%20commits-orange.svg" alt=""></a> 
+ <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/Java-92%20commits-orange.svg" alt=""></a> 
+ <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/JavaScript-133%20commits-orange.svg" alt=""></a> 
+ <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/Python-10%20commits-orange.svg" alt=""></a> 
 
 ##
  
