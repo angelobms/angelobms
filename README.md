@@ -37,6 +37,6 @@
 </p>
 
 <p align="left">
-<p><img src="https://github-readme-stats.vercel.app/api?username=angelobms&show_icons=true" alt="angelobms" /></p>	
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelobms&layout=compact&hide=html" alt="angelobms" /></p>	
+<img src="https://github-readme-stats.vercel.app/api?username=angelobms&show_icons=true" alt="angelobms" />	
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelobms&layout=compact&hide=html" alt="angelobms" />
 </p>
