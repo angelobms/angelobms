@@ -31,7 +31,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelobms&layout=compact&hide=html" alt="angelobms" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=angelobms&show_icons=true" alt="angelobms" /></p>
+<p><img align="rigth" src="https://github-readme-stats.vercel.app/api?username=angelobms&show_icons=true" alt="angelobms" /></p>
 
 ##
 
