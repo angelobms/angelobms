@@ -1,4 +1,9 @@
 ### <h1 align="center">Hi 👋, I'm Angelo Brandão</h1>
+<p align="center">
+<a href="https://dev.to/angelobms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="angelobms" height="30" width="30" /></a>
+<a href="https://twitter.com/angelobms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="angelobms" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/angelobms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="angelobms" height="30" width="30" /></a>
+</p>
 <h3 align="center">I am a Brazilian 🇧🇷️ passionate about technology.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=angelobms" alt="angelobms" /> </p>
 
@@ -30,13 +35,5 @@
 <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/Python-10%20commits-orange.svg" alt=""></a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=angelobms&show_icons=true" alt="angelobms" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=angelobms&show_icons=true" alt="angelobms" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelobms&layout=compact&hide=html" alt="angelobms" /></p>
-
-##
-
-<p align="center">
-<a href="https://dev.to/angelobms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="angelobms" height="30" width="30" /></a>
-<a href="https://twitter.com/angelobms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="angelobms" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/angelobms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="angelobms" height="30" width="30" /></a>
-</p>
