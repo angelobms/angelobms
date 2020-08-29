@@ -30,8 +30,8 @@
 <a href="https://sourcerer.io/angelobms"><img src="https://img.shields.io/badge/Python-10%20commits-orange.svg" alt=""></a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelobms&layout=compact&hide=html" alt="angelobms" /></p>
-<p><img align="rigth" src="https://github-readme-stats.vercel.app/api?username=angelobms&show_icons=true" alt="angelobms" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelobms&layout=compact&hide=html" alt="angelobms" />
+<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=angelobms&show_icons=true" alt="angelobms" />
 
 ##
 
