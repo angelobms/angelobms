@@ -3,7 +3,9 @@
 <a href="https://dev.to/angelobms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="angelobms" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/angelobms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="angelobms" height="20" width="20" /></a>
 <a href=https://codepen.io/angelobms target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="angelobms" height="20" width="20" /></a>  
+<!--
 <a href="https://sourcerer.io/angelobms" target="blank"><img align="center" src="https://sourcerer.io/icons/logo-bright.svg" alt="Sourcerer" height="20px" width="20" /></a>  
+-->
   
 </p>
 <h3 align="center">I am a Brazilian 🇧🇷️ passionate about technology.</h3>
