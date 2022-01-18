@@ -17,7 +17,7 @@
 
 - 🌱 Degree in information system and expert in software engineering;
 
-- 👨‍💻️ I am in constant renewal of knowledge. [List of courses and certifications](https://github.com/angelobms/list-courses-certifications#readme){:target="_blank"};
+- 👨‍💻️ I am in constant renewal of knowledge. [List of courses and certifications](https://github.com/angelobms/list-courses-certifications#readme target=" target=");
 
 - 🚀️ I’m currently learning JavaScript, NodeJS, React, Microservice and Cloud;
 
