@@ -11,7 +11,7 @@
 <h3 align="center">I am a Brazilian 🇧🇷️ passionate about technology.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelobms" alt="angelobms" /> </p>
 
-- 🔭 More than 15 years of experience in IT industry with strong background in different areas of software development (10+ years) in public and private sector business;
+- 🔭 More than 20 years of experience in IT industry with strong background in different areas of software development (15+ years) in public and private sector business;
 
 - 👷️ I’m currently working on microservices with java and spring cloud;
 
