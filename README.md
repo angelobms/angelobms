@@ -19,7 +19,7 @@
 
 - 👨‍💻️ I am in constant renewal of knowledge. [List of courses and certifications](https://github.com/angelobms/list-courses-certifications#readme);
 
-- 🚀️ I’m currently learning TypeScript, NodeJS, Microservice and Cloud;
+- 🚀️ I’m currently learning Kotlin, TypeScript, NodeJS, Microservice and Cloud;
 
 - 🎮️ Plays video game to have fun;
 
